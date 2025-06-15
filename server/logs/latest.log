@@ -33,3 +33,16 @@
 [00:23:38] [Thread-46/INFO]: [ELCI] Starting output thread!
 [00:23:57] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:40968.
 [00:23:57] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60302.
+[00:27:27] [Server thread/INFO]: Stopping the server
+[00:27:27] [Server thread/INFO]: Stopping server
+[00:27:27] [Server thread/INFO]: [ELCI] Disabling ELCI v1.12.1
+[00:27:27] [Server thread/INFO]: [ELCI] Raspberry Juice Stopped
+[00:27:27] [Server thread/INFO]: [SetSpawn] Disabling SetSpawn v3.4
+[00:27:27] [Server thread/INFO]: [SetSpawn] Disabled!
+[00:27:27] [Server thread/INFO]: Saving players
+[00:27:27] [Server thread/INFO]: ottopus2 lost connection: Server closed
+[00:27:27] [Server thread/INFO]: ottopus2 left the game.
+[00:27:28] [Server thread/INFO]: Saving worlds
+[00:27:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:27:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:27:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
