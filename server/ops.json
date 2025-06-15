@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "28fb370f-4c91-421e-ba27-874be5ddb09f",
+    "name": "ottopus2",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
