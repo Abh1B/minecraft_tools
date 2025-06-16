@@ -1,48 +1,103 @@
-[00:05:27] [Server thread/INFO]: ottopus2 issued server command: /tim
-[00:05:33] [Server thread/INFO]: ottopus2 issued server command: /time set day
-[00:05:33] [Server thread/INFO]: [ottopus2: Set the time to 1000]
-[00:06:31] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[00:10:56] [Thread-10/INFO]: [ELCI] Opened connection to/127.0.0.1:39418.
-[00:10:56] [Thread-25/INFO]: [ELCI] Starting output thread!
-[00:10:56] [Thread-24/INFO]: [ELCI] Starting input thread
-[00:11:54] [Thread-10/INFO]: [ELCI] Opened connection to/127.0.0.1:50234.
-[00:11:54] [Thread-27/INFO]: [ELCI] Starting output thread!
-[00:11:54] [Thread-26/INFO]: [ELCI] Starting input thread
-[00:12:41] [Thread-29/INFO]: [ELCI] Starting input thread
-[00:12:41] [Thread-10/INFO]: [ELCI] Opened connection to/127.0.0.1:56586.
-[00:12:41] [Thread-30/INFO]: [ELCI] Starting output thread!
-[00:15:07] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:39418.
-[00:15:07] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:50234.
-[00:15:07] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:56586.
-[00:16:02] [Thread-10/INFO]: [ELCI] Opened connection to/127.0.0.1:44728.
-[00:16:02] [Thread-31/INFO]: [ELCI] Starting input thread
-[00:16:02] [Thread-32/INFO]: [ELCI] Starting output thread!
-[00:16:27] [Thread-10/INFO]: [ELCI] Opened connection to/127.0.0.1:60878.
-[00:16:27] [Thread-34/INFO]: [ELCI] Starting output thread!
-[00:16:27] [Thread-33/INFO]: [ELCI] Starting input thread
-[00:20:02] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:44728.
-[00:20:02] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60878.
-[00:20:26] [Server thread/INFO]: ottopus2 issued server command: /time set da
-[00:20:29] [Server thread/INFO]: ottopus2 issued server command: /time set day
-[00:20:29] [Server thread/INFO]: [ottopus2: Set the time to 1000]
-[00:23:29] [Thread-43/INFO]: [ELCI] Starting input thread
-[00:23:29] [Thread-44/INFO]: [ELCI] Starting output thread!
-[00:23:29] [Thread-10/INFO]: [ELCI] Opened connection to/127.0.0.1:40968.
-[00:23:38] [Thread-45/INFO]: [ELCI] Starting input thread
-[00:23:38] [Thread-10/INFO]: [ELCI] Opened connection to/127.0.0.1:60302.
-[00:23:38] [Thread-46/INFO]: [ELCI] Starting output thread!
-[00:23:57] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:40968.
-[00:23:57] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60302.
-[00:27:27] [Server thread/INFO]: Stopping the server
-[00:27:27] [Server thread/INFO]: Stopping server
-[00:27:27] [Server thread/INFO]: [ELCI] Disabling ELCI v1.12.1
-[00:27:27] [Server thread/INFO]: [ELCI] Raspberry Juice Stopped
-[00:27:27] [Server thread/INFO]: [SetSpawn] Disabling SetSpawn v3.4
-[00:27:27] [Server thread/INFO]: [SetSpawn] Disabled!
-[00:27:27] [Server thread/INFO]: Saving players
-[00:27:27] [Server thread/INFO]: ottopus2 lost connection: Server closed
-[00:27:27] [Server thread/INFO]: ottopus2 left the game.
-[00:27:28] [Server thread/INFO]: Saving worlds
-[00:27:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:27:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:27:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:19:11] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:19:12] [ServerMain/INFO]: Loaded 7 recipes
+[16:19:13] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[16:19:13] [Server thread/INFO]: Loading properties
+[16:19:13] [Server thread/INFO]: This server is running CraftBukkit version 3714-Spigot-b31949f-3ae9069 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT)
+[16:19:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:19:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:19:13] [Server thread/INFO]: Debug logging is disabled
+[16:19:13] [Server thread/INFO]: Default game type: CREATIVE
+[16:19:13] [Server thread/INFO]: Generating keypair
+[16:19:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:19:13] [Server thread/INFO]: Using epoll channel type
+[16:19:13] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[16:19:15] [Server thread/WARN]: Legacy plugin SetSpawn v3.4 does not specify an api-version.
+[16:19:15] [Server thread/WARN]: Legacy plugin ELCI v1.12.1 does not specify an api-version.
+[16:19:15] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v3.4
+[16:19:15] [Server thread/INFO]: [ELCI] Loading ELCI v1.12.1
+[16:19:15] [Server thread/INFO]: Preparing level "world"
+[16:19:15] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:19:15] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:19:15] [Server thread/INFO]: Mob Spawn Range: 6
+[16:19:15] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:19:15] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[16:19:15] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:19:15] [Server thread/INFO]: Max TNT Explosions: 100
+[16:19:15] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:19:15] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[16:19:15] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[16:19:15] [Server thread/INFO]: View Distance: 10
+[16:19:15] [Server thread/INFO]: Simulation Distance: 10
+[16:19:15] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:19:15] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:19:15] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:19:15] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:19:15] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:19:15] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:19:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:19:20] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[16:19:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:19:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:19:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:19:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:19:20] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[16:19:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:19:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:19:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:19:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:19:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:19:21] [Worker-Main-5/INFO]: Preparing spawn area: 18%
+[16:19:22] [Worker-Main-6/INFO]: Preparing spawn area: 87%
+[16:19:22] [Server thread/INFO]: Time elapsed: 6161 ms
+[16:19:22] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.4
+[16:19:22] [Server thread/INFO]: [SetSpawn] Enabled!
+[16:19:22] [Server thread/INFO]: [ELCI] Enabling ELCI v1.12.1
+[16:19:22] [Server thread/INFO]: [ELCI] Using host:port - 0.0.0.0:4711
+[16:19:22] [Server thread/INFO]: [ELCI] ThreadListener Started
+[16:19:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:19:22] [Server thread/INFO]: Done (6.513s)! For help, type "help"
+[16:20:57] [User Authenticator #1/INFO]: UUID of player ottopus2 is 28fb370f-4c91-421e-ba27-874be5ddb09f
+[16:20:57] [Server thread/INFO]: Welcome ottopus2[m
+[16:20:57] [Server thread/INFO]: ottopus2 joined the game
+[16:20:57] [Server thread/INFO]: ottopus2[/[0:0:0:0:0:0:0:1%0]:48450] logged in with entity id 121 at ([world]-24.956155318096002, 128.23710164935443, -26.560169874285627)
+[16:22:09] [Thread-18/INFO]: [ELCI] Starting input thread
+[16:22:09] [Thread-10/INFO]: [ELCI] Opened connection to/127.0.0.1:53486.
+[16:22:09] [Thread-19/INFO]: [ELCI] Starting output thread!
+[16:22:27] [Thread-10/INFO]: [ELCI] Opened connection to/127.0.0.1:58220.
+[16:22:27] [Thread-21/INFO]: [ELCI] Starting output thread!
+[16:22:27] [Thread-20/INFO]: [ELCI] Starting input thread
+[16:24:23] [Server thread/INFO]: ottopus2 lost connection: Disconnected
+[16:24:23] [Server thread/INFO]: ottopus2 left the game
+[16:24:25] [Thread-2/INFO]: Stopping server
+[16:24:25] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:244) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:263) ~[?:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349) ~[jline-2.12.1.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:117) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
